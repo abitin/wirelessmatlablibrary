@@ -1,0 +1,1 @@
+The aim of the project is to develop a library exclusively for  wireless simulations and design in Matlab. This library will include : channel models, fading environments, source codings, channel codings, modulation schemes etc.
